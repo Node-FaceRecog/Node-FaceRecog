@@ -1,0 +1,20 @@
+{
+  "name": "x-jintoppy-auth",
+  "version": "0.0.6",
+  "description": "A authentication node module using face and signature recognition",
+  "main": "bin/faceauth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "authentication",
+    "simple",
+    "face",
+    "authentication"
+  ],
+  "author": "FaceAuth team",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~3.4.4"
+  }
+}
